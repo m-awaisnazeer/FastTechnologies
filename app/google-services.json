@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "976956967569",
+    "firebase_url": "https://fast-technologies.firebaseio.com",
+    "project_id": "fast-technologies",
+    "storage_bucket": "fast-technologies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976956967569:android:0c72f7d2ace43e0b",
+        "android_client_info": {
+          "package_name": "com.example.fasttechnologies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976956967569-ekkuv2r5vgm43flhosfu8mj49575kpni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfn1RNCu384YlVxx9SxYTfFpME-So3Jt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976956967569-ekkuv2r5vgm43flhosfu8mj49575kpni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Fast Technologies</string>
+    <string name="title_activity_we_offers">We_offers</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="web_client_id">976956967569-ekkuv2r5vgm43flhosfu8mj49575kpni.apps.googleusercontent.com</string>
+    <string name="title_activity_ceh">CEH</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="blockchain_trend">Blockchain a type of distributed ledger, promises to reshape industries by enabling trust, providing transparency and reducing friction across business ecosystems potentially lowering costs, reducing transaction settlement times and improving cash flow. Today, trust is placed in banks, clearinghouses, governments and many other institutions as central authorities with the “single version of the truth” maintained securely in their databases. The centralized trust model adds delays and friction costs (commissions, fees and the time value of money) to transactions. Blockchain provides an alternative trust mode and removes the need for central authorities in arbitrating transactions.</string>
+
+    <string name="category_app_dev">        For description of Android Category go to Android/strings/category_app_dev</string>
+    <string name="android_instructor_name">strings/android_instructor_name</string>
+    <string name="android_instructor_qualification">strings/android_instructor_qualification</string>
+    <string name="android_outline">strings/android_outline</string>
+
+    <string name="category_web_dev">        For description of Web Category go to Android/strings/category_web_dev</string>
+    <string name="aspdotnet_instructor_name">strings/aspdotnet_instructor_name</string>
+    <string name="aspdotnet_instructor_qualification">strings/aspdotnet_instructor_qualification</string>
+    <string name="aspdotnet_outline">strings/aspdotnet_outline</string>
+    <string name="frontEnd_instructor_name">strings/frontEnd_instructor_name</string>
+    <string name="frontEnd_instructor_qualification">strings/frontEnd_instructor_qualification</string>
+    <string name="frontEnd_outline">strings/frontEnd_outline</string>
+    <string name="PHP_instructor_name">strings/PHP_instructor_name</string>
+    <string name="PHP_instructor_qualification">strings/PHP_instructor_qualification</string>
+    <string name="PHP_outline">strings/PHP_outline</string>
+    <string name="PWDjango_instructor_name">strings/PWDjango_instructor_name</string>
+    <string name="PWDjango_instructor_qualification">strings/PWDjango_instructor_qualification</string>
+    <string name="PWDjango_outline">strings/PWDjango_outline</string>
+    <string name="MernStack_instructor_name">strings/MernStack_instructor_name</string>
+    <string name="MernStack_instructor_qualification">strings/MernStack_instructor_qualification</string>
+    <string name="MernStack_outline">strings/MernStack_outline</string>
+
+    <string name="category_game_dev">        For description of Game Development Category go to Android/strings/category_app_dev</string>
+    <string name="unity_instructor_name">strings/unity_instructor_name</string>
+    <string name="unity_instructor_qualification">strings/unity_instructor_qualification</string>
+    <string name="unity_outline">strings/unity_outline</string>
+
+    <string name="graphic_designing">        For description of Graphic Category go to Android/strings/graphic_designing</string>
+    <string name="graphicD_instructor_name">strings/graphicD_instructor_name</string>
+    <string name="graphicD_instructor_qualification">strings/graphicD_instructor_qualification</string>
+    <string name="graphicD_outline">strings/graphicD_outline</string>
+
+    <string name="category_itandsoft">        For description of IT and Software go to Android/strings/category_itandsoft</string>
+    <string name="blockchain_instructor_name">strings/blockchain_instructor_name</string>
+    <string name="blockchain_instructor_qualification">strings/blockchain_instructor_qualification</string>
+    <string name="blockchain_outline">strings/blockchain_outline</string>
+
+    <string name="category_programming_lang">        For description of Programming Language go to Android/strings/category_programming_lang</string>
+    <string name="python_instructor_name">strings/graphicD_instructor_name</string>
+    <string name="python_instructor_qualification">strings/graphicD_instructor_qualification</string>
+    <string name="python_outline">strings/graphicD_outline</string>
+
+    <string name="CEH_instructor_name">strings/CEH_instructor_name</string>
+    <string name="CEH_instructor_qualification">strings/CEH_instructor_qualification</string>
+    <string name="CEH_outline">strings/CEH_outline</string>
+
+    <string name="TDMAXAA_instructor_name">strings/TDMAXAA_instructor_name</string>
+    <string name="TDMAXAA_instructor_qualification">strings/TDMAXAA_instructor_qualification</string>
+    <string name="TDMAXAA_outline">strings/TDMAXAA_outline</string>
+
+    <string name="Networking">For Description of Networking go to Android/Values/strings/Networking</string>
+
+
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000"
+    tools:context=".SplashScreen">
+
+    <ImageView
+        android:id="@+id/fastlogo"
+        android:layout_width="251dp"
+        android:layout_height="148dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="170dp"
+        android:src="@drawable/fastlogodarkbackg" />
+
+    <ImageView
+        android:layout_width="284dp"
+        android:layout_height="51dp"
+        android:layout_gravity="center"
+        android:src="@drawable/fasttech"
+        android:id="@+id/fasttech"/>
+
+    <ImageView
+        android:layout_width="278dp"
+        android:layout_height="32dp"
+        android:layout_gravity="center"
+        android:src="@drawable/fastandpro"
+        android:id="@+id/fastpro"/>
+
+</LinearLayout>
